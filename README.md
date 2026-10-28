@@ -1,3 +1,5 @@
+![Downloads](https://img.shields.io/github/downloads/bujtasadam/XP-x64-KB3012168-Smart-Installer/total) ![License](https://img.shields.io/github/license/bujtasadam/XP-x64-KB3012168-Smart-Installer)
+
 # XP-x64-KB3012168-Smart-Installer
 
 An automated batch script helper to successfully install the **KB3012168** (GDI+ Security Update) on **Windows XP Professional x64 Edition** (NT 5.2 architecture) without manual file copying or facing installer prerequisite blockages.
